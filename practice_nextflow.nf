@@ -1,4 +1,3 @@
-params.str = 'Hello world!'
 
 process splitLetters {
   output:
